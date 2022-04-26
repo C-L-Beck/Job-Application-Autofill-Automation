@@ -1,2 +1,2 @@
 # Job-Application-Autofill-Automation
-Autofills and Automations applying for jobs using Xpaths and python.
+Autofills and Automates filling out Job Apllications using Xpaths and python.
